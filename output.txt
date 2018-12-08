@@ -1,0 +1,5 @@
+Create new tread number 0
+Create new tread number 1
+Create new tread number 2
+Count process in 0 thread = 1
+Count process in 1 thread = 1
